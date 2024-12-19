@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmniCrafter AKA Diana
+- 👋 Hi, I’m @DCtheOmniCrafter AKA Diana
 - 👀 I’m interested in ... a slew of things - but with regards to data, I am interested in developing awesome interactive Dashboards, forms, reports, and insights.
 - 🌱 I’m currently learning ...Python, API development and management, Data Warehouse development, SSIS, SSDT and anything related to the flow of data to users.
 - 💞️ I’m looking to collaborate on ...data management
